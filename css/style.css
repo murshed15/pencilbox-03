@@ -1,0 +1,38 @@
+.banner{
+    background-image: url(../image/banner01.jpg);
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.textss h1{
+    text-align: center;
+    color: aliceblue;
+}
+.textss p{
+    text-align: center;
+    color: aliceblue;
+}
+
+/* Additional custom styling for the Fan's Feedback */
+blockquote {
+    font-size: 1.2rem;
+    font-style: italic;
+}
+
+.carousel-item img {
+    max-width: 100px;
+    border: 2px solid #ddd;
+    padding: 5px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgb(211, 209, 209);
+}
+.blockquote-footer{
+    padding-top: 10px;
+}
+.navbar-brand img{
+    height: 100px;
+    width: 150px;
+}
